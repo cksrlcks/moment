@@ -28,8 +28,10 @@
     font-size:1.3rem;
 }
 .imgBox {
-    height: 80vh;
+    height: 70vh;
     position: relative;
+    border-radius: 16px;
+    overflow: hidden;
 }
 
 .cropBtn {

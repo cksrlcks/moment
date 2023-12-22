@@ -318,3 +318,13 @@ body {
     max-width: 425px;
     margin: 0 auto;
 }
+
+.app-header{
+    margin-bottom: 2rem;
+}
+
+
+.temp{
+    padding:8em 0;
+    text-align: center;
+}
