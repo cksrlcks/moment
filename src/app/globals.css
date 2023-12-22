@@ -322,6 +322,9 @@ body {
 .app-header{
     margin-bottom: 2rem;
 }
+.app-body{
+    padding-bottom: 10rem;
+}
 
 
 .temp{
